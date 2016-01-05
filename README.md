@@ -38,5 +38,5 @@ cd docker-compose-wordpress
 docker compose up
 ```
 
-Head over to https://{your-docker-machine-ip}/ to start wordpress. 
-Example: http://192.168.99.100/
+Head over to https://{your-docker-machine-ip}:8080/ to start wordpress. 
+Example: http://192.168.99.100/:8080
