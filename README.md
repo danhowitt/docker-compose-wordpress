@@ -35,7 +35,6 @@ Run docker-compose:
 cd ~/dev
 git clone https://github.com/danhowitt/docker-compose-wordpress.git
 cd docker-compose-wordpress
-cd ./docker-compose-wordpress
 docker compose up
 ```
 
